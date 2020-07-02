@@ -18,3 +18,10 @@ How to use:
     OR
     $./randomize.py
   - input the count number you want, then ENTER
+
+
+
+
+
+Question no 2 answer
+https://github.com/sigidpam/randomize_number/blob/master/Server_Monitoring.md
